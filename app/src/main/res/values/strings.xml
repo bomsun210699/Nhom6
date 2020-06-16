@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Ban Giay The Thao</string>
+    <string name="title_activity_thong_tin">Map</string>
+
+    <string name="title_app">Giày Thể Thao</string>
+
+    <!--Đăng nhập-->
+    <string name="title_login">Đăng nhập</string>
+    <string name="title_register">Đăng ký</string>
+    <string name="title_update">Cập nhật</string>
+    <string name="promt_username">Tên đăng nhập</string>
+    <string name="promt_password">Mật khẩu</string>
+    <string name="promt_repassword">Nhập lại mật khẩu</string>
+    <string name="promt_fullname">Họ tên</string>
+    <string name="promt_phone">Diện thoại</string>
+    <string name="promt_address">Địa chỉ</string>
+    <string name="promt_email">Email</string>
+    <string name="promt_save">Lưu lại</string>
+
+    <!---Lỗi-->
+    <string name="error_login">Tên đăng nhập hoặc mật khẩu không đúng</string>
+    <string name="error_empty">Bạn phải nhập giá trị vào</string>
+    <string name="error_valid">Sai định dạng</string>
+
+    <!--facebook-->
+    <string name="facebook_app_id">841183439377015</string>
+    <string name="fb_login_protocol_scheme">fb841183439377015</string>
+    <string name="key_facebook">4ed79bc0129ad998b01f61d3fe7253bc</string>
+</resources>

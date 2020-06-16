@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top_bottom">75dp</dimen>
+    <dimen name="padđing_left_right">20dp</dimen>
+    <dimen name="line_height">10dp</dimen>
+    <dimen name="height_promt">50dp</dimen>
+    <dimen name="padding_promt">7dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="margin_button">20dp</dimen>
+    <dimen name="size_image">72dp</dimen>
+</resources>

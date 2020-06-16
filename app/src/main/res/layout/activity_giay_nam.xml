@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.caosiqui.quicaoit.appbandienthoaididong.activity.GiayNamActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbargiaynam"
+        app:title="GIÀY NAM"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:titleTextColor="#f9f6f5"
+        android:background="#FFFCCA53">
+
+    </android.support.v7.widget.Toolbar>
+    <ListView
+        android:id="@+id/listviewgiaynam"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+</LinearLayout>
